@@ -10,7 +10,7 @@ function App() {
         <header className="bg-white shadow-sm">
         <div className="max-w-7xl mx-auto px-4 py-4 sm:px-6 lg:px-8 flex items-center justify-center space-x-2">
   <FileText className="h-8 w-8 text-indigo-600" />
-  <h1 className="text-2xl font-bold text-gray-900">AI Resume Builder</h1>
+  <h1 className="text-2xl font-bold text-gray-900">Deepthi Resume Builder</h1>
 </div>
 
         </header>
